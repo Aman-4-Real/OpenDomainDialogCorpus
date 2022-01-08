@@ -1,6 +1,8 @@
 # OpenDomainDialogCorpus_CN
 Open domain Chinese dialogue corpus and datasets.
 
+根据一些论文和其他repo收录整理了若干中文开放域对话数据集，仅供学习交流使用。<br>
+
 <table class="docutils">
 <tbody>
   <th width="80"> 数据集 </th><th width="80"> 描述 </th><th width="80"> 单轮/多轮 </th><th width="250"> 格式 </th><th width="250"> 规模 </th><th width="60"> 年份 </th><th width="120"> 提出论文 </th><th width="80"> 相关地址 </th>
@@ -32,9 +34,23 @@ Labeled_Data<br>
   
   <tr><td> 贴吧语料 </td><td> 来自贴吧回帖 </td><td> 多轮 </td><td><details><summary> 点我 </summary> 文本文件，post和resp用 \t 分隔，包含305w个单轮，需要自己恢复成多轮和构造对应数据 </details></td><td> ~305w (单轮) </td><td> / </td><td> / </td><td> <a href="https://github.com/codemayq/chinese_chatbot_corpus" target="_blank">Here</a> </td></tr>
   
-  
-  
-  
-  
-  
 </tbody></table>
+
+<br><br>
+
+**References & Useful Links**:
+
+[1] <a href="https://ai.tencent.com/ailab/nlp/dialogue/#datasets">Dialogue Research-Tencent AI Lab</a><br>
+[2] <a href="https://ai.baidu.com/broad/introduction">Baidu AI Dataset</a><br>
+[3] <a href="https://docs.google.com/spreadsheets/d/1SJ4XV6NIEl_ReF1odYBRXs0q6mTkedoygY3kLMPjcP8/pubhtml">Dialogue datasets</a><br>
+[4] <a href="https://github.com/candlewill/Dialog_Corpus">candlewill/Dialog_Corpus</a><br>
+[5] <a href="https://github.com/codemayq/chinese_chatbot_corpus">codemayq/chinese_chatbot_corpus</a><br>
+[6] <a href="https://github.com/EVASHINJI/Dialog-Datasets">EVASHINJI/Dialog-Datasets</a><br>
+[7] <a href="https://github.com/EVASHINJI/Dialog-Datasets">EVASHINJI/Dialog-Datasets</a><br>
+
+ENJOY.
+
+
+
+
+
