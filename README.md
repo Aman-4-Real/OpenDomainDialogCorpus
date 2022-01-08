@@ -5,7 +5,7 @@ Open domain Chinese dialogue corpus and datasets.
 
 <table class="docutils">
 <tbody>
-  <th width="80"> 数据集 </th><th width="80"> 描述 </th><th width="100"> 单轮/多轮 </th><th width="250"> 格式 </th><th width="250"> 规模 </th><th width="60"> 年份 </th><th width="120"> 提出论文 </th><th width="80"> 相关地址 </th>
+  <th width="80"> 数据集 </th><th width="80"> 描述 </th><th width="80"> 单轮/多轮 </th><th width="250"> 格式 </th><th width="250"> 规模 </th><th width="60"> 年份 </th><th width="120"> 提出论文 </th><th width="80"> 相关地址 </th>
   
   <tr><td> Douban Conversaion Corpus </td><td> 来自豆瓣数据，常用 </td><td> 多轮 </td><td><details><summary> 点我 </summary> test集合包含1000组数据，每组数据由10个labeled context-response pair构成，10个数据标签可能均为0，可能具有多个（2-3）标签为1的数据。所有文本为已分词格式。 </details></td><td> <img src=https://github.com/Aman-4-Real/OpenDomainDialogCorpus_CN/blob/main/pics/douban.png width="300px" /> </td><td> 2017 </td><td><details><summary> 点我 </summary> Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots. Yu Wu, Wei Wu, Chen Xing, Ming Zhou, Zhoujun Li. ACL 2017. </details></td><td> <a href="https://github.com/MarkWuNLP/MultiTurnResponseSelection" target="_blank">Here</a> </td></tr>
   
