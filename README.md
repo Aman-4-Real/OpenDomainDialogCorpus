@@ -46,7 +46,6 @@ Labeled_Data<br>
 [4] <a href="https://github.com/candlewill/Dialog_Corpus">candlewill/Dialog_Corpus</a><br>
 [5] <a href="https://github.com/codemayq/chinese_chatbot_corpus">codemayq/chinese_chatbot_corpus</a><br>
 [6] <a href="https://github.com/EVASHINJI/Dialog-Datasets">EVASHINJI/Dialog-Datasets</a><br>
-[7] <a href="https://github.com/EVASHINJI/Dialog-Datasets">EVASHINJI/Dialog-Datasets</a><br>
 
 ENJOY.
 
